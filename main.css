@@ -48,9 +48,9 @@ h3 {
     text-align: justify;
     padding: 20px;
     color: rgb(0, 102, 255);
-    display: flex; /* Adicione essa linha para habilitar o flexbox */
-    justify-content: center; /* Adicione essa linha para centralizar o texto na horizontal */
-    align-items: center; /* Adicione essa linha para centralizar o texto na vertical */
+    display: flex; 
+    justify-content: center;
+    align-items: center;
     font-size: 14px;
 }
 
@@ -67,9 +67,9 @@ h4 {
     text-align: justify;
     padding: 20px;
     color: background-color(0, 102, 255);
-    display: flex; /* Adicione essa linha para habilitar o flexbox */
-    justify-content: center; /* Adicione essa linha para centralizar o texto na horizontal */
-    align-items: center; /* Adicione essa linha para centralizar o texto na vertical */
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
     font-size: 12px;
 }
 h5 {
@@ -83,10 +83,10 @@ h5 {
     border: 2px solid blue;
     text-align: justify;
     padding: 20px;
-    color: white; /* Altere essa linha para corrigir o texto para branco */
-    display: flex; /* Adicione essa linha para habilitar o flexbox */
-    justify-content: center; /* Adicione essa linha para centralizar o texto na horizontal */
-    align-items: center; /* Adicione essa linha para centralizar o texto na vertical */
+    color: white; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
     font-size: 12px;
 }
 h6 {
